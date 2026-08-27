@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Licensing, billing or refunds
+    url: mailto:yendrrek@protonmail.com
+    about: Anything touching your purchase — licence keys, order IDs, invoices, refunds. Email these rather than opening an issue; this tracker is public.
+  - name: A feature stopped working after 30 days
+    url: https://prismtabs.com/docs#licensing
+    about: This is almost always the trial ending rather than a bug. The manual explains which features are Free and which are Pro.
+  - name: Read the manual
+    url: https://prismtabs.com/docs
+    about: Setup, groups, the tool window, the palette, persistence and the FAQ.
+  - name: Report a security vulnerability
+    url: https://github.com/yendrrek/prismtabs-feedback/blob/master/SECURITY.md
+    about: Please report these privately by email, not as a public issue.
