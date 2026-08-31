@@ -20,9 +20,11 @@ Then [open an issue](https://github.com/yendrrek/prismtabs-feedback/issues/new/c
 ## What does *not* belong here
 
 Issues here are public. Keep licence keys, order and invoice IDs, and email addresses out of
-them — anything touching your purchase (licensing, billing, refunds) goes to
-**contact@prismtabs.com** instead. Suspected security problems have their own route — see
-[SECURITY.md](SECURITY.md).
+them. Anything touching your purchase — billing, invoices, refunds — is handled by JetBrains,
+who process every Marketplace payment: use your [JetBrains Account](https://account.jetbrains.com)
+or [JetBrains Sales](https://sales.jetbrains.com/hc/en-gb/articles/115000913704-How-can-I-get-a-refund).
+For anything else private, email **contact@prismtabs.com**. Suspected security problems have
+their own route — see [SECURITY.md](SECURITY.md).
 
 ## Labels
 
