@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: Licensing, billing or refunds
-    url: mailto:yendrrek@protonmail.com
+    url: mailto:contact@prismtabs.com
     about: Anything touching your purchase — licence keys, order IDs, invoices, refunds. Email these rather than opening an issue; this tracker is public.
   - name: A feature stopped working after 30 days
     url: https://prismtabs.com/docs#licensing

@@ -4,7 +4,7 @@
 
 Please **do not** open a public issue for a suspected security problem.
 
-Email **yendrrek@protonmail.com** with a description of the issue and, if you have one, the
+Email **contact@prismtabs.com** with a description of the issue and, if you have one, the
 steps to reproduce it. You will get an acknowledgement; PrismTabs is maintained by one person,
 so please allow a few days before following up.
 

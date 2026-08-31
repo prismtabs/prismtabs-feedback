@@ -6,26 +6,23 @@ the Free tier, the Pro tier and the 30-day trial all belong here, in one place. 
 features sit in which tier, and what Pro costs, see
 [prismtabs.com](https://prismtabs.com/#pricing).
 
-PrismTabs itself is closed source, so there is no code in this repository — only issues.
-
 ## Before you open an issue
 
 - Check the [manual](https://prismtabs.com/docs) — particularly
   [Licensing & the free trial](https://prismtabs.com/docs#licensing) if a feature has
   stopped working, since that is usually a trial that has ended rather than a bug.
 - [Search existing issues](https://github.com/yendrrek/prismtabs-feedback/issues?q=is%3Aissue),
-  including closed ones. A 👍 on an existing request counts for more than a duplicate.
+  including closed ones. If you find one that matches, add a 👍 instead of opening a
+  duplicate — reactions are how requests get prioritised.
 
 Then [open an issue](https://github.com/yendrrek/prismtabs-feedback/issues/new/choose).
 
 ## What does *not* belong here
 
-**This repository is public — anything you post is visible to everyone and is indexed by search
-engines.** Never paste a licence key, an order or invoice ID, or an email address here.
-
-Licensing, billing, refunds, and anything else touching your purchase go to
-**yendrrek@protonmail.com** instead, not to an issue. Suspected security problems have their own
-route — see [SECURITY.md](SECURITY.md).
+Issues here are public. Keep licence keys, order and invoice IDs, and email addresses out of
+them — anything touching your purchase (licensing, billing, refunds) goes to
+**contact@prismtabs.com** instead. Suspected security problems have their own route — see
+[SECURITY.md](SECURITY.md).
 
 ## Labels
 
@@ -57,11 +54,12 @@ is not a rejection of the idea — it is a note about where it would ship.
 
 ## Ground rules
 
-PrismTabs is maintained by one person. Issues are read, but there is no response-time guarantee,
-and an idea being declined is not a judgement of the person who suggested it. Be civil; off-topic,
-abusive or spam issues get locked and closed without further comment.
+PrismTabs is built and maintained by one person. Every issue is read, and issues are triaged
+by impact. A request being declined is never a judgement of the person who suggested it. Please
+keep things respectful — off-topic, abusive or spam issues are locked and closed without further
+comment.
 
 ## Links
 
 [Website](https://prismtabs.com) · [Manual](https://prismtabs.com/docs) ·
-[Licence agreement](https://prismtabs.com/eula) · yendrrek@protonmail.com
+[Licence agreement](https://prismtabs.com/eula) · contact@prismtabs.com
