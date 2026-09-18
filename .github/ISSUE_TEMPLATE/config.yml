@@ -10,5 +10,5 @@ contact_links:
     url: https://prismtabs.com/docs
     about: Setup, groups, the tool window, the palette, persistence and the FAQ.
   - name: Report a security vulnerability
-    url: https://github.com/yendrrek/prismtabs-feedback/blob/master/SECURITY.md
+    url: https://github.com/prismtabs/prismtabs-feedback/blob/master/SECURITY.md
     about: Please report these privately by email, not as a public issue.

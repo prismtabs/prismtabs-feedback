@@ -11,11 +11,11 @@ features sit in which tier, and what Pro costs, see
 - Check the [manual](https://prismtabs.com/docs) — particularly
   [Licensing & the free trial](https://prismtabs.com/docs#licensing) if a feature has
   stopped working, since that is usually a trial that has ended rather than a bug.
-- [Search existing issues](https://github.com/yendrrek/prismtabs-feedback/issues?q=is%3Aissue),
+- [Search existing issues](https://github.com/prismtabs/prismtabs-feedback/issues?q=is%3Aissue),
   including closed ones. If you find one that matches, add a 👍 instead of opening a
   duplicate — reactions are how requests get prioritised.
 
-Then [open an issue](https://github.com/yendrrek/prismtabs-feedback/issues/new/choose).
+Then [open an issue](https://github.com/prismtabs/prismtabs-feedback/issues/new/choose).
 
 ## What does *not* belong here
 
@@ -48,8 +48,8 @@ concerns the Free tier or both.
 
 ## What is being built
 
-- [Everything planned](https://github.com/yendrrek/prismtabs-feedback/issues?q=is%3Aissue+is%3Aopen+label%3Aplanned)
-- [Planned for Pro](https://github.com/yendrrek/prismtabs-feedback/issues?q=is%3Aissue+is%3Aopen+label%3Aplanned+label%3Apro)
+- [Everything planned](https://github.com/prismtabs/prismtabs-feedback/issues?q=is%3Aissue+is%3Aopen+label%3Aplanned)
+- [Planned for Pro](https://github.com/prismtabs/prismtabs-feedback/issues?q=is%3Aissue+is%3Aopen+label%3Aplanned+label%3Apro)
 
 New features generally land in Pro; the Free tier stays as it is. A request being labelled `pro`
 is not a rejection of the idea — it is a note about where it would ship.

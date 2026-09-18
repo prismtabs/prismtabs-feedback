@@ -20,7 +20,7 @@ body:
     attributes:
       label: Before reporting
       options:
-        - label: I searched [existing issues](https://github.com/yendrrek/prismtabs-feedback/issues?q=is%3Aissue), including closed ones.
+        - label: I searched [existing issues](https://github.com/prismtabs/prismtabs-feedback/issues?q=is%3Aissue), including closed ones.
           required: true
         - label: This report contains no licence key, order ID, or other personal data.
           required: true
