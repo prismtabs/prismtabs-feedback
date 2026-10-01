@@ -44,7 +44,7 @@ captured in the issue form rather than as a label.
 | `duplicate` / `wontfix` | Closed, with the reason |
 
 `tool-window` and `planned` are independent, so they combine. The tool window is the Pro tier's
-home, so most feature requests carry `tool-window`; the Free tier is unaffected by them.
+home, so many feature requests carry `tool-window`; the Free tier is unaffected by them.
 
 ## What is being built
 
