@@ -2,7 +2,7 @@
 
 This is the public issue tracker for [PrismTabs](https://prismtabs.com), a colour-coded tab
 groups plugin for JetBrains IDEs. It covers **all editions** — bugs and feature requests for
-the Free tier, the Pro tier and the 30-day trial all belong here, in one place. For which
+the Free tier, the Pro tier and the 14-day trial all belong here, in one place. For which
 features sit in which tier, and what Pro costs, see
 [prismtabs.com](https://prismtabs.com/#pricing).
 
@@ -40,18 +40,18 @@ captured in the issue form rather than as a label.
 | `needs-info` | Waiting on the reporter; closed if it goes quiet |
 | `confirmed` | Reproduced locally; the report is a real defect |
 | `planned` | Accepted and intended for a future release |
-| `pro` | Concerns, or would land in, the Pro tier |
+| `tool-window` | Concerns the tool window, which is part of the Pro tier |
 | `duplicate` / `wontfix` | Closed, with the reason |
 
-`pro` and `planned` are independent, so they combine: the absence of `pro` means the issue
-concerns the Free tier or both.
+`tool-window` and `planned` are independent, so they combine. The tool window is the Pro tier's
+home, so most feature requests carry `tool-window`; the Free tier is unaffected by them.
 
 ## What is being built
 
 - [Everything planned](https://github.com/prismtabs/prismtabs-feedback/issues?q=is%3Aissue+is%3Aopen+label%3Aplanned)
-- [Planned for Pro](https://github.com/prismtabs/prismtabs-feedback/issues?q=is%3Aissue+is%3Aopen+label%3Aplanned+label%3Apro)
+- [Planned for the tool window](https://github.com/prismtabs/prismtabs-feedback/issues?q=is%3Aissue+is%3Aopen+label%3Aplanned+label%3Atool-window)
 
-New features generally land in Pro; the Free tier stays as it is. A request being labelled `pro`
+New features generally land in Pro; the Free tier stays as it is. A request being labelled `tool-window`
 is not a rejection of the idea — it is a note about where it would ship.
 
 ## Ground rules

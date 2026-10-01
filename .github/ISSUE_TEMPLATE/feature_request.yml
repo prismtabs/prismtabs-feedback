@@ -55,7 +55,7 @@ body:
       options:
         - Free tier (trial has ended)
         - Pro (subscribed)
-        - Still in the 30-day trial
+        - Still in the 14-day trial
         - Not sure
     validations:
       required: true

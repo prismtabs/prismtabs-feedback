@@ -13,7 +13,7 @@ body:
 
         If a feature stopped working rather than misbehaved, check
         [Licensing & the free trial](https://prismtabs.com/docs#licensing) first — that is
-        usually a 30-day trial ending rather than a defect.
+        usually a 14-day trial ending rather than a defect.
 
   - type: checkboxes
     id: prerequisites
@@ -60,7 +60,7 @@ body:
       options:
         - Free tier (trial has ended)
         - Pro (subscribed)
-        - Still in the 30-day trial
+        - Still in the 14-day trial
         - Not sure
     validations:
       required: true

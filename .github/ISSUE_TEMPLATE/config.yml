@@ -3,7 +3,7 @@ contact_links:
   - name: Licensing, billing or refunds
     url: mailto:contact@prismtabs.com
     about: Anything touching your purchase — licence keys, order IDs, invoices, refunds. Email these rather than opening an issue; this tracker is public.
-  - name: A feature stopped working after 30 days
+  - name: A feature stopped working after 14 days
     url: https://prismtabs.com/docs#licensing
     about: This is almost always the trial ending rather than a bug. The manual explains which features are Free and which are Pro.
   - name: Read the manual
